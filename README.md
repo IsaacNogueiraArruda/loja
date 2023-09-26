@@ -1,2 +1,2 @@
-# loja
-Loja fictícia 
+# barba
+Pagina comercial para aprendizagem.
